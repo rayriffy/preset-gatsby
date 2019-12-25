@@ -24,6 +24,7 @@
     "babel-plugin-emotion": "^10.0.27",
     "emotion-theming": "^10.0.27",
     "gatsby": "^2.18.17",
+    "gatsby-image": "^2.2.37",
     "lodash": "^4.17.15",
     "moment": "^2.24.0",
     "react": "^16.12.0",
